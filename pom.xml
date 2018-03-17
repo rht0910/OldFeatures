@@ -86,8 +86,8 @@
   </dependencies>
   <pluginRepositories>
     <pluginRepository>
-      <id>maven-public</id>
-      <url>https://repo.rht0910.tk/repository/maven-public/</url>
+      <id>maven-public-direct</id>
+      <url>https://direct.repo.rht0910.tk/repository/maven-public/</url>
     </pluginRepository>
   </pluginRepositories>
   <distributionManagement>
